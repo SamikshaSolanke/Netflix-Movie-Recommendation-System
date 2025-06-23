@@ -1,5 +1,10 @@
 # 🎬 Netflix Movie Recommendation System
 
+
+https://github.com/user-attachments/assets/4d13646f-a6fd-4fc1-b7cf-7dadb32d1c1a
+
+
+
 A personalized movie recommendation system inspired by Netflix, built using **Machine Learning** and **Data Science** techniques. This project demonstrates my ability to collect, preprocess, and analyze real-world data to generate meaningful movie suggestions for users using **content-based filtering**.
 
 ---
